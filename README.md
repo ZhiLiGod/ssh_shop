@@ -1,3 +1,3 @@
 # ssh_shop
-Maven+Struts+Spring+Hibernate
+Struts2+Spring3+Hibernate5+Maven
 Online Shop
